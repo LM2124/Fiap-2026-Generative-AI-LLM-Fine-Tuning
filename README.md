@@ -2,8 +2,6 @@
 
 Repositório acadêmico desenvolvido para a disciplina de **Inteligência Artificial Generativa (CP5)** - FIAP (2026).
 
----
-
 ## Integrantes do Grupo
 
 | Nome do Aluno | RM |
@@ -11,15 +9,11 @@ Repositório acadêmico desenvolvido para a disciplina de **Inteligência Artifi
 | **Lucas Moreno Matheus** | 97158 |
 | **Lorenzo Gomes Andreata** | 551117 |
 
----
-
 ## 1. Problema Abordado e Escolha da LLM
 
 * **Problema:** Conversão de expressões informais de data e hora em português brasileiro (ex.: *"próxima terça às 3 da tarde"*, *"daqui a 3 semanas"*, *"depois de amanhã"*, *"fim do mês que vem"*) em carimbos temporais estritos no padrão **ISO 8601** (`AAAA-MM-DD` ou `AAAA-MM-DDTHH:MM`), a partir de uma data de referência fornecida.
 * **LLM Selecionada:** [`Qwen/Qwen3-1.7B`](https://huggingface.co/Qwen/Qwen3-1.7B) (família Qwen3, autorizada no enunciado).
 * **Motivação:** Modelos fundacionais compactos possuem capacidade de raciocínio linguístico, mas falham sistematicamente em tarefas determinísticas de formatação: geram respostas prolixas com textos excedentes (incompatíveis com contratos de APIs) e cometem erros aritméticos frequentes em cálculos de calendário relativo. O fine-tuning direciona o modelo a operar como um conversor canônico determinístico.
-
----
 
 ## 2. Metodologia de Fine-Tuning e Parâmetros Testados
 
@@ -42,8 +36,6 @@ Conforme exigido pelo enunciado, foram comparadas duas configurações de parâm
 
 * **Hiperparâmetros de Treino:** 3 épocas completas, lote efetivo de 16 (lote por dispositivo = 4 com 4 passos de acúmulo de gradiente), taxa de aprendizado de `2e-4` com decaimento cosseno e otimizador AdamW.
 
----
-
 ## 3. Conjunto de Dados
 
 O dataset foi gerado proceduralmente ([`gerar_dados.py`](./gerar_dados.py)) com a biblioteca padrão `datetime` do Python, garantindo gabarito exato e reprodutível:
@@ -53,8 +45,6 @@ O dataset foi gerado proceduralmente ([`gerar_dados.py`](./gerar_dados.py)) com 
 * **Teste Independente (360 tarefas):**
   * **Variações Conhecidas (260 amostras):** Famílias sintáticas vistas no treino com datas/horas inéditas.
   * **Famílias Inéditas (100 amostras):** Quatro categorias propositalmente ocultadas do treino (`horas_atras`, `daqui_anos`, `meses_atras`, `semanas_atras`) para testar capacidade de generalização *zero-shot*.
-
----
 
 ## 4. Resultados e Avaliação Comparativa
 
@@ -80,8 +70,6 @@ A avaliação quantitativa mediu a **Acurácia Exata** (saída rigorosamente id�
 
 * **Diagnóstico:** O modelo base sem fine-tuning alcançou apenas 11,1% de acerto estrito, prejudicado pela prolixidade e alucinações de calendário relativo. O fine-tuning com $r=16$ alcançou **78,9% de acurácia global (+67,8 p.p.)**, demonstrando forte capacidade de generalização mesmo em estruturas sintáticas nunca vistas no treino (55,0%).
 
----
-
 ## 5. Interface Gráfica para o Usuário
 
 Atendendo ao requisito de fornecer uma interface para inserção do prompt pelo usuário, foi desenvolvido um aplicativo local (FastAPI + HTML/CSS/JavaScript):
@@ -91,8 +79,6 @@ Atendendo ao requisito de fornecer uma interface para inserção do prompt pelo 
 * **Telemetria de GPU:** Detecta e exibe no cabeçalho o dispositivo ativo e a alocação de VRAM.
 
 ![Demonstração da Interface Gráfica](assets/frontend_demo.png)
-
----
 
 ## 6. Estrutura do Repositório
 
@@ -113,8 +99,6 @@ Atendendo ao requisito de fornecer uma interface para inserção do prompt pelo 
 ├── gerar_dados.py                  # Gerador procedural de dados sintéticos via CLI
 └── pyproject.toml                  # Dependências e gerenciamento de ambiente via uv
 ```
-
----
 
 ## 7. Como Executar o Projeto
 
