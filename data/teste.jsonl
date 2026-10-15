@@ -1,0 +1,360 @@
+{"familia": "dia_relativo", "referencia": "2024-12-25T11:30", "expressao": "anteontem", "resposta": "2024-12-23", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2026-10-21T18:05", "expressao": "ontem", "resposta": "2026-10-20", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2024-03-27T20:00", "expressao": "ontem", "resposta": "2024-03-26", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2028-10-31T17:45", "expressao": "ontem", "resposta": "2028-10-30", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2027-12-24T20:20", "expressao": "hoje às quatro da tarde", "resposta": "2027-12-24T16:00", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2026-07-31T18:05", "expressao": "ontem", "resposta": "2026-07-30", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2025-05-13T20:45", "expressao": "ontem", "resposta": "2025-05-12", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2026-03-21T16:55", "expressao": "depois de amanhã às 11h", "resposta": "2026-03-23T11:00", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2026-12-22T13:25", "expressao": "depois de amanhã", "resposta": "2026-12-24", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2028-08-04T11:15", "expressao": "hoje ao meio-dia", "resposta": "2028-08-04T12:00", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2024-11-09T09:10", "expressao": "ontem às 20:40", "resposta": "2024-11-08T20:40", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2028-11-04T17:10", "expressao": "ontem às 20:40", "resposta": "2028-11-03T20:40", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2028-06-18T15:45", "expressao": "hoje às 8:15", "resposta": "2028-06-18T08:15", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2026-07-14T08:00", "expressao": "depois de amanhã", "resposta": "2026-07-16", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2024-06-06T09:45", "expressao": "anteontem", "resposta": "2024-06-04", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2026-08-05T08:35", "expressao": "anteontem", "resposta": "2026-08-03", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2025-10-20T22:40", "expressao": "amanhã", "resposta": "2025-10-21", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2026-07-11T10:25", "expressao": "hoje", "resposta": "2026-07-11", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2024-12-19T08:15", "expressao": "ontem", "resposta": "2024-12-18", "tipo": "variacao"}
+{"familia": "dia_relativo", "referencia": "2026-12-09T12:25", "expressao": "depois de amanhã", "resposta": "2026-12-11", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2028-09-29T14:00", "expressao": "daqui a 16 dias", "resposta": "2028-10-15", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2024-08-25T21:45", "expressao": "daqui a 39 dias às 11h", "resposta": "2024-10-03T11:00", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2027-12-07T07:10", "expressao": "em 32 dias", "resposta": "2028-01-08", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2028-05-22T15:10", "expressao": "daqui a 24 dias", "resposta": "2028-06-15", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2028-11-23T15:55", "expressao": "daqui a oito dias às 19h15", "resposta": "2028-12-01T19:15", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2025-06-22T09:35", "expressao": "daqui a trinta dias às 11h30", "resposta": "2025-07-22T11:30", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2027-03-21T10:15", "expressao": "daqui a 33 dias às 6:00", "resposta": "2027-04-23T06:00", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2026-02-23T11:10", "expressao": "dentro de três dias", "resposta": "2026-02-26", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2026-05-08T14:25", "expressao": "em 16 dias", "resposta": "2026-05-24", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2025-10-17T15:05", "expressao": "em 37 dias às 7 da manhã", "resposta": "2025-11-23T07:00", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2024-04-04T19:05", "expressao": "em trinta dias às 23h45", "resposta": "2024-05-04T23:45", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2026-01-25T13:20", "expressao": "em 37 dias", "resposta": "2026-03-03", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2025-05-11T21:25", "expressao": "em 38 dias", "resposta": "2025-06-18", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2028-05-08T13:55", "expressao": "daqui a 35 dias às 19:00", "resposta": "2028-06-12T19:00", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2027-07-26T07:25", "expressao": "em um dia", "resposta": "2027-07-27", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2028-01-29T16:05", "expressao": "dentro de 14 dias", "resposta": "2028-02-12", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2026-05-09T22:00", "expressao": "daqui a dez dias às 13:10", "resposta": "2026-05-19T13:10", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2027-12-06T18:35", "expressao": "dentro de seis dias às 18h", "resposta": "2027-12-12T18:00", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2026-06-09T11:15", "expressao": "em 19 dias", "resposta": "2026-06-28", "tipo": "variacao"}
+{"familia": "daqui_dias", "referencia": "2028-06-28T19:55", "expressao": "em 21 dias às 13h", "resposta": "2028-07-19T13:00", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2026-09-23T08:20", "expressao": "há 29 dias", "resposta": "2026-08-25", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2025-10-18T09:05", "expressao": "há seis dias", "resposta": "2025-10-12", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2027-07-07T09:15", "expressao": "há 22 dias", "resposta": "2027-06-15", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2028-11-06T20:05", "expressao": "sete dias atrás", "resposta": "2028-10-30", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2027-08-17T09:55", "expressao": "há 22 dias", "resposta": "2027-07-26", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2024-02-18T21:55", "expressao": "há 11 dias", "resposta": "2024-02-07", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2024-04-21T12:20", "expressao": "há 18 dias", "resposta": "2024-04-03", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2027-03-23T14:20", "expressao": "14 dias atrás", "resposta": "2027-03-09", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2026-07-12T19:30", "expressao": "há 11 dias", "resposta": "2026-07-01", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2026-12-31T07:50", "expressao": "há 24 dias", "resposta": "2026-12-07", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2028-03-28T08:55", "expressao": "há 28 dias", "resposta": "2028-02-29", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2026-01-02T10:20", "expressao": "26 dias atrás", "resposta": "2025-12-07", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2027-05-27T09:20", "expressao": "25 dias atrás", "resposta": "2027-05-02", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2026-02-20T19:50", "expressao": "há 1 dia", "resposta": "2026-02-19", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2024-10-06T19:40", "expressao": "há dez dias", "resposta": "2024-09-26", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2025-09-02T18:00", "expressao": "há 18 dias", "resposta": "2025-08-15", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2024-09-09T08:00", "expressao": "19 dias atrás", "resposta": "2024-08-21", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2027-01-05T09:20", "expressao": "sete dias atrás", "resposta": "2026-12-29", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2025-03-09T20:50", "expressao": "há 28 dias", "resposta": "2025-02-09", "tipo": "variacao"}
+{"familia": "dias_atras", "referencia": "2024-11-25T12:15", "expressao": "há vinte dias", "resposta": "2024-11-05", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2027-11-26T11:30", "expressao": "daqui a 7 semanas", "resposta": "2028-01-14", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2025-01-01T21:45", "expressao": "daqui a quatro semanas", "resposta": "2025-01-29", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2025-05-27T17:55", "expressao": "daqui a três semanas", "resposta": "2025-06-17", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2024-07-05T10:55", "expressao": "daqui a oito semanas", "resposta": "2024-08-30", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2026-12-08T19:55", "expressao": "em 3 semanas", "resposta": "2026-12-29", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2024-03-30T12:25", "expressao": "daqui a 3 semanas", "resposta": "2024-04-20", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2025-01-01T08:30", "expressao": "em 5 semanas", "resposta": "2025-02-05", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2025-08-14T12:05", "expressao": "daqui a três semanas", "resposta": "2025-09-04", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2027-06-29T15:00", "expressao": "em 8 semanas", "resposta": "2027-08-24", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2027-01-18T07:45", "expressao": "dentro de 8 semanas", "resposta": "2027-03-15", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2027-09-12T22:35", "expressao": "dentro de 7 semanas", "resposta": "2027-10-31", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2027-05-14T07:15", "expressao": "dentro de cinco semanas", "resposta": "2027-06-18", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2028-08-06T13:00", "expressao": "dentro de 3 semanas", "resposta": "2028-08-27", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2025-12-15T08:10", "expressao": "dentro de uma semana", "resposta": "2025-12-22", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2025-09-03T17:05", "expressao": "daqui a 1 semana", "resposta": "2025-09-10", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2024-11-26T16:45", "expressao": "dentro de três semanas", "resposta": "2024-12-17", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2027-03-31T18:00", "expressao": "em duas semanas", "resposta": "2027-04-14", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2026-01-24T19:05", "expressao": "daqui a sete semanas", "resposta": "2026-03-14", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2025-08-22T22:10", "expressao": "em duas semanas", "resposta": "2025-09-05", "tipo": "variacao"}
+{"familia": "daqui_semanas", "referencia": "2025-11-05T20:40", "expressao": "dentro de quatro semanas", "resposta": "2025-12-03", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2026-01-13T10:40", "expressao": "próximo domingo", "resposta": "2026-01-18", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2026-03-06T07:30", "expressao": "próxima quarta às 11:45", "resposta": "2026-03-11T11:45", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2028-12-06T20:00", "expressao": "na próxima quarta-feira às 19h30", "resposta": "2028-12-13T19:30", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2028-08-15T12:55", "expressao": "na próxima quarta-feira às 23:50", "resposta": "2028-08-16T23:50", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2026-07-17T07:00", "expressao": "sábado que vem às 20h05", "resposta": "2026-07-18T20:05", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2024-01-07T19:15", "expressao": "no próximo sábado às 8 da manhã", "resposta": "2024-01-13T08:00", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2028-01-01T11:45", "expressao": "no próximo sábado", "resposta": "2028-01-08", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2025-10-16T21:35", "expressao": "domingo que vem às 11:40", "resposta": "2025-10-19T11:40", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2028-06-25T16:15", "expressao": "próxima segunda às 18h20", "resposta": "2028-06-26T18:20", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2024-02-12T07:40", "expressao": "sábado que vem", "resposta": "2024-02-17", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2024-07-01T21:15", "expressao": "próxima quarta-feira às 19:20", "resposta": "2024-07-03T19:20", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2024-11-01T09:25", "expressao": "próxima terça-feira às 22:30", "resposta": "2024-11-05T22:30", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2028-08-21T22:05", "expressao": "próxima terça-feira", "resposta": "2028-08-22", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2028-07-23T15:20", "expressao": "no próximo sábado às 19:00", "resposta": "2028-07-29T19:00", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2028-01-28T13:30", "expressao": "próxima terça às 14h", "resposta": "2028-02-01T14:00", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2026-01-27T21:05", "expressao": "na próxima segunda", "resposta": "2026-02-02", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2026-03-25T13:55", "expressao": "quinta-feira que vem", "resposta": "2026-03-26", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2024-05-29T10:40", "expressao": "próxima segunda às 17h20", "resposta": "2024-06-03T17:20", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2024-01-11T15:40", "expressao": "na próxima sexta", "resposta": "2024-01-12", "tipo": "variacao"}
+{"familia": "proximo_dia_semana", "referencia": "2024-09-27T08:45", "expressao": "terça que vem às 16h45", "resposta": "2024-10-01T16:45", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2028-03-12T19:55", "expressao": "quarta passada", "resposta": "2028-03-08", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2024-01-04T10:05", "expressao": "no domingo passado às 19:40", "resposta": "2023-12-31T19:40", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2028-02-10T20:10", "expressao": "na terça passada às 21h", "resposta": "2028-02-08T21:00", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2026-07-11T13:10", "expressao": "terça passada", "resposta": "2026-07-07", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2025-01-27T15:30", "expressao": "na quinta-feira passada às 11:00", "resposta": "2025-01-23T11:00", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2024-09-12T15:05", "expressao": "quarta passada às 9h", "resposta": "2024-09-11T09:00", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2027-09-24T08:05", "expressao": "terça-feira passada às 22:05", "resposta": "2027-09-21T22:05", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2026-09-22T22:25", "expressao": "última sexta", "resposta": "2026-09-18", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2025-12-03T17:15", "expressao": "última quarta-feira", "resposta": "2025-11-26", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2025-12-30T17:05", "expressao": "na segunda passada às dez da manhã", "resposta": "2025-12-29T10:00", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2025-07-26T14:25", "expressao": "na quinta-feira passada", "resposta": "2025-07-24", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2026-11-20T20:50", "expressao": "na terça passada", "resposta": "2026-11-17", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2028-07-22T17:00", "expressao": "último sábado", "resposta": "2028-07-15", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2028-07-11T17:50", "expressao": "última quinta às 8:30", "resposta": "2028-07-06T08:30", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2027-09-10T10:55", "expressao": "quinta passada", "resposta": "2027-09-09", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2028-11-16T08:10", "expressao": "última quinta-feira", "resposta": "2028-11-09", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2027-01-28T21:10", "expressao": "última quinta-feira", "resposta": "2027-01-21", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2025-05-08T14:15", "expressao": "na terça-feira passada", "resposta": "2025-05-06", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2024-08-04T20:55", "expressao": "última segunda", "resposta": "2024-07-29", "tipo": "variacao"}
+{"familia": "dia_semana_passado", "referencia": "2028-04-18T15:15", "expressao": "último sábado", "resposta": "2028-04-15", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2025-02-01T16:15", "expressao": "quinta da próxima semana", "resposta": "2025-02-06", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2026-10-07T20:05", "expressao": "sábado da semana que vem", "resposta": "2026-10-17", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2024-08-15T14:05", "expressao": "na semana que vem, na segunda-feira às 8h10", "resposta": "2024-08-19T08:10", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2025-07-18T14:45", "expressao": "na semana que vem, no sábado às 6 da tarde", "resposta": "2025-07-26T18:00", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2025-07-03T22:15", "expressao": "terça-feira da próxima semana", "resposta": "2025-07-08", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2027-12-16T16:55", "expressao": "na semana que vem, na segunda", "resposta": "2027-12-20", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2027-06-28T22:55", "expressao": "na semana que vem, na quarta-feira às 16h40", "resposta": "2027-07-07T16:40", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2024-12-07T12:25", "expressao": "quinta da semana que vem", "resposta": "2024-12-12", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2026-05-26T17:00", "expressao": "terça-feira da semana que vem às 6:20", "resposta": "2026-06-02T06:20", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2026-08-28T07:35", "expressao": "domingo da semana que vem às 7:00", "resposta": "2026-09-06T07:00", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2028-09-06T14:40", "expressao": "sexta da semana que vem", "resposta": "2028-09-15", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2024-07-23T16:55", "expressao": "na semana que vem, na quarta às 23:15", "resposta": "2024-07-31T23:15", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2025-06-03T18:35", "expressao": "segunda-feira da próxima semana", "resposta": "2025-06-09", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2028-12-30T22:05", "expressao": "na semana que vem, na quarta-feira", "resposta": "2029-01-03", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2024-10-29T20:15", "expressao": "sábado da semana que vem às seis da manhã", "resposta": "2024-11-09T06:00", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2026-06-01T18:15", "expressao": "sábado da semana que vem às 18h40", "resposta": "2026-06-13T18:40", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2025-07-14T21:40", "expressao": "na semana que vem, na terça às 16:30", "resposta": "2025-07-22T16:30", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2025-09-25T13:00", "expressao": "sexta-feira da próxima semana", "resposta": "2025-10-03", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2024-09-08T20:35", "expressao": "sexta-feira da próxima semana às 6h45", "resposta": "2024-09-13T06:45", "tipo": "variacao"}
+{"familia": "semana_que_vem", "referencia": "2026-08-13T11:40", "expressao": "na semana que vem, na quarta-feira às 21h15", "resposta": "2026-08-19T21:15", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2027-12-20T15:15", "expressao": "no dia 17 às 20h15", "resposta": "2028-01-17T20:15", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2024-09-05T22:35", "expressao": "dia 12", "resposta": "2024-09-12", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2027-11-06T18:20", "expressao": "no dia 14", "resposta": "2027-11-14", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2028-04-19T07:40", "expressao": "dia 9 às 19:00", "resposta": "2028-05-09T19:00", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2027-07-26T08:45", "expressao": "no dia 4", "resposta": "2027-08-04", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2026-12-24T19:15", "expressao": "dia 6", "resposta": "2027-01-06", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2024-09-15T11:50", "expressao": "no dia 16", "resposta": "2024-09-16", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2025-12-08T21:55", "expressao": "dia 20", "resposta": "2025-12-20", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2028-09-05T21:00", "expressao": "no dia 3 às 10h20", "resposta": "2028-10-03T10:20", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2026-02-21T09:25", "expressao": "no dia 30 às 6:00", "resposta": "2026-03-30T06:00", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2028-01-17T09:30", "expressao": "dia 31", "resposta": "2028-01-31", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2027-03-15T15:20", "expressao": "dia 20", "resposta": "2027-03-20", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2024-04-10T18:45", "expressao": "dia 16", "resposta": "2024-04-16", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2026-06-13T15:55", "expressao": "dia 23 às 7:20", "resposta": "2026-06-23T07:20", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2025-01-06T16:20", "expressao": "no dia 1 às 19h40", "resposta": "2025-02-01T19:40", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2025-07-16T15:35", "expressao": "no dia 20 às 13h", "resposta": "2025-07-20T13:00", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2024-05-10T16:55", "expressao": "no dia 23", "resposta": "2024-05-23", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2027-07-24T17:40", "expressao": "no dia 13", "resposta": "2027-08-13", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2024-01-26T17:25", "expressao": "no dia 11", "resposta": "2024-02-11", "tipo": "variacao"}
+{"familia": "dia_do_mes", "referencia": "2024-11-06T21:55", "expressao": "dia 16", "resposta": "2024-11-16", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2028-12-29T15:05", "expressao": "em 13 de agosto", "resposta": "2029-08-13", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2026-01-15T08:35", "expressao": "em 8 de abril às 21h10", "resposta": "2026-04-08T21:10", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2028-05-23T15:25", "expressao": "11/08 às 12h20", "resposta": "2028-08-11T12:20", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2025-08-28T08:55", "expressao": "em 17 de abril às 18h30", "resposta": "2026-04-17T18:30", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2025-09-02T15:15", "expressao": "10 de março de 2027 às 10:45", "resposta": "2027-03-10T10:45", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2027-02-11T12:45", "expressao": "em 25 de agosto às 12:50", "resposta": "2027-08-25T12:50", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2025-08-06T12:45", "expressao": "11 de março às 16:10", "resposta": "2026-03-11T16:10", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2026-01-25T11:25", "expressao": "13/12 às 4 e meia da tarde", "resposta": "2026-12-13T16:30", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2028-09-08T08:50", "expressao": "11/05 às dez da noite", "resposta": "2029-05-11T22:00", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2024-09-27T22:05", "expressao": "5 de fevereiro de 2025 às 17:30", "resposta": "2025-02-05T17:30", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2025-12-04T09:35", "expressao": "18/07/2027", "resposta": "2027-07-18", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2027-01-27T09:15", "expressao": "6 de agosto de 2028 às 11 da noite", "resposta": "2028-08-06T23:00", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2025-04-06T22:00", "expressao": "8 de janeiro", "resposta": "2026-01-08", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2024-10-08T17:25", "expressao": "em 25 de julho às 15h45", "resposta": "2025-07-25T15:45", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2027-10-03T20:40", "expressao": "2 de fevereiro de 2027 às 21h", "resposta": "2027-02-02T21:00", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2027-04-06T18:40", "expressao": "13/03/2027 às 17:10", "resposta": "2027-03-13T17:10", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2024-11-23T13:45", "expressao": "11/05/2025 às 15h45", "resposta": "2025-05-11T15:45", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2026-07-01T19:15", "expressao": "4 de março de 2026 às 15h50", "resposta": "2026-03-04T15:50", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2028-12-20T16:25", "expressao": "2 de agosto", "resposta": "2029-08-02", "tipo": "variacao"}
+{"familia": "data_explicita", "referencia": "2028-12-16T15:15", "expressao": "1 de setembro", "resposta": "2029-09-01", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2026-01-28T10:20", "expressao": "último dia do mês", "resposta": "2026-01-31", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2028-12-05T22:30", "expressao": "último dia do mês que vem", "resposta": "2029-01-31", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2026-04-10T20:15", "expressao": "início do mês que vem", "resposta": "2026-05-01", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2027-06-04T12:25", "expressao": "último dia do mês", "resposta": "2027-06-30", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2027-04-30T19:05", "expressao": "fim do mês", "resposta": "2027-04-30", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2024-06-17T07:10", "expressao": "fim do mês que vem", "resposta": "2024-07-31", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2026-10-05T09:55", "expressao": "último dia do mês que vem", "resposta": "2026-11-30", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2024-04-15T07:35", "expressao": "fim do mês", "resposta": "2024-04-30", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2024-09-30T16:25", "expressao": "fim do mês que vem", "resposta": "2024-10-31", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2027-09-26T09:00", "expressao": "último dia do mês", "resposta": "2027-09-30", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2025-11-07T10:00", "expressao": "último dia do mês que vem", "resposta": "2025-12-31", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2024-03-21T07:15", "expressao": "último dia do mês", "resposta": "2024-03-31", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2028-08-14T22:05", "expressao": "primeiro dia do próximo mês", "resposta": "2028-09-01", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2025-08-19T09:45", "expressao": "início do mês que vem", "resposta": "2025-09-01", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2024-05-13T21:45", "expressao": "início do mês que vem", "resposta": "2024-06-01", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2027-08-10T10:35", "expressao": "último dia do mês que vem", "resposta": "2027-09-30", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2027-11-12T16:00", "expressao": "primeiro dia do mês que vem", "resposta": "2027-12-01", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2027-09-23T12:55", "expressao": "primeiro dia do mês que vem", "resposta": "2027-10-01", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2026-01-04T16:20", "expressao": "fim do mês que vem", "resposta": "2026-02-28", "tipo": "variacao"}
+{"familia": "inicio_fim_mes", "referencia": "2026-05-06T14:20", "expressao": "fim do mês que vem", "resposta": "2026-06-30", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2028-04-30T16:45", "expressao": "daqui a dez meses", "resposta": "2029-02-28", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2024-12-24T13:05", "expressao": "daqui a três meses", "resposta": "2025-03-24", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2025-08-25T11:30", "expressao": "daqui a sete meses", "resposta": "2026-03-25", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2026-04-15T07:40", "expressao": "dentro de 8 meses", "resposta": "2026-12-15", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2024-08-29T21:30", "expressao": "daqui a um mês", "resposta": "2024-09-29", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2028-03-14T13:20", "expressao": "dentro de nove meses", "resposta": "2028-12-14", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2025-04-12T14:25", "expressao": "em onze meses", "resposta": "2026-03-12", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2027-08-24T14:40", "expressao": "dentro de três meses", "resposta": "2027-11-24", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2028-03-30T07:20", "expressao": "em um mês", "resposta": "2028-04-30", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2028-12-22T10:10", "expressao": "em doze meses", "resposta": "2029-12-22", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2025-11-30T07:40", "expressao": "em 3 meses", "resposta": "2026-02-28", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2027-01-20T11:30", "expressao": "dentro de 11 meses", "resposta": "2027-12-20", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2026-02-22T19:25", "expressao": "daqui a sete meses", "resposta": "2026-09-22", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2024-01-31T22:30", "expressao": "dentro de dois meses", "resposta": "2024-03-31", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2028-12-11T11:15", "expressao": "em 9 meses", "resposta": "2029-09-11", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2028-03-16T10:20", "expressao": "em quatro meses", "resposta": "2028-07-16", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2027-01-13T11:15", "expressao": "em dez meses", "resposta": "2027-11-13", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2028-10-06T15:50", "expressao": "daqui a um mês", "resposta": "2028-11-06", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2026-09-06T14:00", "expressao": "dentro de um mês", "resposta": "2026-10-06", "tipo": "variacao"}
+{"familia": "daqui_meses", "referencia": "2026-06-08T19:30", "expressao": "daqui a dois meses", "resposta": "2026-08-08", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2027-01-24T19:20", "expressao": "daqui a cinco horas", "resposta": "2027-01-25T00:20", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2028-04-01T10:35", "expressao": "dentro de seis horas", "resposta": "2028-04-01T16:35", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2025-04-22T21:40", "expressao": "daqui a 6 horas", "resposta": "2025-04-23T03:40", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2027-01-09T12:00", "expressao": "daqui a 1 hora", "resposta": "2027-01-09T13:00", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2026-05-07T22:25", "expressao": "daqui a oito horas", "resposta": "2026-05-08T06:25", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2028-09-20T13:30", "expressao": "dentro de 10 horas", "resposta": "2028-09-20T23:30", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2026-04-05T09:50", "expressao": "daqui a 11 horas", "resposta": "2026-04-05T20:50", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2026-11-12T22:50", "expressao": "daqui a 10 horas", "resposta": "2026-11-13T08:50", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2027-05-13T20:40", "expressao": "dentro de 9 horas", "resposta": "2027-05-14T05:40", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2028-03-20T19:45", "expressao": "em onze horas", "resposta": "2028-03-21T06:45", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2027-09-23T08:20", "expressao": "daqui a uma hora", "resposta": "2027-09-23T09:20", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2028-01-01T10:20", "expressao": "em duas horas", "resposta": "2028-01-01T12:20", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2024-08-18T18:30", "expressao": "dentro de 1 hora", "resposta": "2024-08-18T19:30", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2027-08-08T14:10", "expressao": "dentro de 8 horas", "resposta": "2027-08-08T22:10", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2027-02-06T14:25", "expressao": "daqui a 12 horas", "resposta": "2027-02-07T02:25", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2028-05-14T21:45", "expressao": "em onze horas", "resposta": "2028-05-15T08:45", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2025-01-07T16:50", "expressao": "em uma hora", "resposta": "2025-01-07T17:50", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2027-12-08T16:45", "expressao": "daqui a 7 horas", "resposta": "2027-12-08T23:45", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2028-01-15T15:45", "expressao": "em 7 horas", "resposta": "2028-01-15T22:45", "tipo": "variacao"}
+{"familia": "daqui_horas", "referencia": "2026-11-13T16:10", "expressao": "daqui a 2 horas", "resposta": "2026-11-13T18:10", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2026-11-05T19:05", "expressao": "daqui a uma hora e meia", "resposta": "2026-11-05T20:35", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2027-11-07T07:10", "expressao": "em meia hora", "resposta": "2027-11-07T07:40", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2028-07-07T16:55", "expressao": "daqui a meia hora", "resposta": "2028-07-07T17:25", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2027-10-28T19:00", "expressao": "em quinze minutos", "resposta": "2027-10-28T19:15", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2026-04-11T18:15", "expressao": "em meia hora", "resposta": "2026-04-11T18:45", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2028-08-01T15:55", "expressao": "daqui a quinze minutos", "resposta": "2028-08-01T16:10", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2024-06-18T11:10", "expressao": "daqui a meia hora", "resposta": "2024-06-18T11:40", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2025-10-04T18:00", "expressao": "daqui a quinze minutos", "resposta": "2025-10-04T18:15", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2028-04-04T08:05", "expressao": "em meia hora", "resposta": "2028-04-04T08:35", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2024-08-15T17:15", "expressao": "em 40 minutos", "resposta": "2024-08-15T17:55", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2028-06-22T15:35", "expressao": "daqui a uma hora e meia", "resposta": "2028-06-22T17:05", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2025-11-26T08:35", "expressao": "em meia hora", "resposta": "2025-11-26T09:05", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2024-03-30T22:05", "expressao": "daqui a meia hora", "resposta": "2024-03-30T22:35", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2027-12-13T13:10", "expressao": "daqui a meia hora", "resposta": "2027-12-13T13:40", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2027-05-03T08:25", "expressao": "daqui a uma hora e meia", "resposta": "2027-05-03T09:55", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2027-10-12T18:50", "expressao": "daqui a vinte minutos", "resposta": "2027-10-12T19:10", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2028-08-25T09:00", "expressao": "daqui a 45 minutos", "resposta": "2028-08-25T09:45", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2025-08-12T13:20", "expressao": "daqui a vinte minutos", "resposta": "2025-08-12T13:40", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2027-03-31T10:00", "expressao": "em meia hora", "resposta": "2027-03-31T10:30", "tipo": "variacao"}
+{"familia": "daqui_minutos", "referencia": "2025-12-14T11:00", "expressao": "em 45 minutos", "resposta": "2025-12-14T11:45", "tipo": "variacao"}
+{"familia": "semanas_atras", "referencia": "2024-04-03T16:05", "expressao": "há duas semanas", "resposta": "2024-03-20", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2025-03-29T17:45", "expressao": "três semanas atrás", "resposta": "2025-03-08", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2025-12-09T14:25", "expressao": "6 semanas atrás", "resposta": "2025-10-28", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2026-03-05T09:00", "expressao": "1 semana atrás", "resposta": "2026-02-26", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2027-03-12T07:50", "expressao": "1 semana atrás", "resposta": "2027-03-05", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2028-08-15T08:05", "expressao": "sete semanas atrás", "resposta": "2028-06-27", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2025-06-22T08:55", "expressao": "quatro semanas atrás", "resposta": "2025-05-25", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2027-11-23T11:55", "expressao": "quatro semanas atrás", "resposta": "2027-10-26", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2025-09-20T18:15", "expressao": "1 semana atrás", "resposta": "2025-09-13", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2026-07-27T19:10", "expressao": "há 6 semanas", "resposta": "2026-06-15", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2024-11-25T18:00", "expressao": "2 semanas atrás", "resposta": "2024-11-11", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2025-10-03T15:10", "expressao": "há 7 semanas", "resposta": "2025-08-15", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2026-07-29T15:10", "expressao": "há uma semana", "resposta": "2026-07-22", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2025-03-24T14:20", "expressao": "há seis semanas", "resposta": "2025-02-10", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2024-02-01T08:45", "expressao": "uma semana atrás", "resposta": "2024-01-25", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2028-09-14T08:25", "expressao": "4 semanas atrás", "resposta": "2028-08-17", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2026-11-11T15:15", "expressao": "há 1 semana", "resposta": "2026-11-04", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2024-06-30T19:30", "expressao": "há 8 semanas", "resposta": "2024-05-05", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2027-06-16T07:20", "expressao": "seis semanas atrás", "resposta": "2027-05-05", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2025-11-15T21:25", "expressao": "3 semanas atrás", "resposta": "2025-10-25", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2025-09-30T12:30", "expressao": "há 1 semana", "resposta": "2025-09-23", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2026-05-08T12:00", "expressao": "3 semanas atrás", "resposta": "2026-04-17", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2026-12-02T12:05", "expressao": "5 semanas atrás", "resposta": "2026-10-28", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2028-12-27T07:55", "expressao": "3 semanas atrás", "resposta": "2028-12-06", "tipo": "inedita"}
+{"familia": "semanas_atras", "referencia": "2024-08-22T09:25", "expressao": "há 3 semanas", "resposta": "2024-08-01", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2025-01-05T13:30", "expressao": "há doze meses", "resposta": "2024-01-05", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2027-08-18T12:05", "expressao": "há seis meses", "resposta": "2027-02-18", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2026-12-05T22:55", "expressao": "há um mês", "resposta": "2026-11-05", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2026-06-07T10:05", "expressao": "9 meses atrás", "resposta": "2025-09-07", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2025-11-11T09:55", "expressao": "dez meses atrás", "resposta": "2025-01-11", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2027-11-14T22:10", "expressao": "doze meses atrás", "resposta": "2026-11-14", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2027-02-12T08:55", "expressao": "um mês atrás", "resposta": "2027-01-12", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2025-04-29T22:40", "expressao": "há doze meses", "resposta": "2024-04-29", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2024-05-17T19:45", "expressao": "três meses atrás", "resposta": "2024-02-17", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2024-12-19T15:25", "expressao": "há cinco meses", "resposta": "2024-07-19", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2026-11-18T11:10", "expressao": "há doze meses", "resposta": "2025-11-18", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2024-01-03T08:10", "expressao": "9 meses atrás", "resposta": "2023-04-03", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2027-01-04T11:50", "expressao": "há 4 meses", "resposta": "2026-09-04", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2024-05-01T15:05", "expressao": "5 meses atrás", "resposta": "2023-12-01", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2027-09-03T13:55", "expressao": "há três meses", "resposta": "2027-06-03", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2024-05-15T20:25", "expressao": "há dez meses", "resposta": "2023-07-15", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2027-12-06T07:50", "expressao": "há três meses", "resposta": "2027-09-06", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2024-09-18T08:50", "expressao": "quatro meses atrás", "resposta": "2024-05-18", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2028-01-03T11:15", "expressao": "3 meses atrás", "resposta": "2027-10-03", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2026-10-16T18:10", "expressao": "há doze meses", "resposta": "2025-10-16", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2026-02-02T13:00", "expressao": "três meses atrás", "resposta": "2025-11-02", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2025-11-18T08:30", "expressao": "há 5 meses", "resposta": "2025-06-18", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2027-10-29T08:25", "expressao": "há doze meses", "resposta": "2026-10-29", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2028-08-23T21:35", "expressao": "há 8 meses", "resposta": "2027-12-23", "tipo": "inedita"}
+{"familia": "meses_atras", "referencia": "2027-06-05T14:10", "expressao": "há dois meses", "resposta": "2027-04-05", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2027-05-10T09:30", "expressao": "em 1 ano", "resposta": "2028-05-10", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2028-11-06T08:10", "expressao": "dentro de cinco anos", "resposta": "2033-11-06", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2025-03-22T10:00", "expressao": "dentro de 3 anos", "resposta": "2028-03-22", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2027-01-13T15:05", "expressao": "daqui a 5 anos", "resposta": "2032-01-13", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2024-11-04T09:15", "expressao": "daqui a 1 ano", "resposta": "2025-11-04", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2026-10-23T08:25", "expressao": "em quatro anos", "resposta": "2030-10-23", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2028-09-18T20:30", "expressao": "daqui a quatro anos", "resposta": "2032-09-18", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2026-02-23T14:55", "expressao": "daqui a quatro anos", "resposta": "2030-02-23", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2027-03-14T19:25", "expressao": "dentro de 3 anos", "resposta": "2030-03-14", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2025-08-10T15:20", "expressao": "em 1 ano", "resposta": "2026-08-10", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2026-03-12T13:50", "expressao": "daqui a três anos", "resposta": "2029-03-12", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2028-01-08T14:45", "expressao": "em 4 anos", "resposta": "2032-01-08", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2027-08-18T19:10", "expressao": "daqui a 4 anos", "resposta": "2031-08-18", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2026-02-28T11:30", "expressao": "daqui a 1 ano", "resposta": "2027-02-28", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2025-06-07T13:30", "expressao": "dentro de dois anos", "resposta": "2027-06-07", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2025-12-04T17:20", "expressao": "dentro de 2 anos", "resposta": "2027-12-04", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2028-10-07T08:40", "expressao": "dentro de quatro anos", "resposta": "2032-10-07", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2027-11-08T10:55", "expressao": "daqui a cinco anos", "resposta": "2032-11-08", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2027-08-02T14:55", "expressao": "dentro de três anos", "resposta": "2030-08-02", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2024-06-22T19:20", "expressao": "em 2 anos", "resposta": "2026-06-22", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2028-07-06T14:10", "expressao": "daqui a três anos", "resposta": "2031-07-06", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2028-12-25T18:50", "expressao": "daqui a 1 ano", "resposta": "2029-12-25", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2025-04-05T14:20", "expressao": "daqui a dois anos", "resposta": "2027-04-05", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2028-07-14T14:05", "expressao": "em um ano", "resposta": "2029-07-14", "tipo": "inedita"}
+{"familia": "daqui_anos", "referencia": "2028-10-03T22:30", "expressao": "dentro de 1 ano", "resposta": "2029-10-03", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2025-06-30T18:35", "expressao": "12 horas atrás", "resposta": "2025-06-30T06:35", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2026-10-19T17:35", "expressao": "sete horas atrás", "resposta": "2026-10-19T10:35", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2028-01-18T17:15", "expressao": "seis horas atrás", "resposta": "2028-01-18T11:15", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2026-01-29T22:20", "expressao": "7 horas atrás", "resposta": "2026-01-29T15:20", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2028-07-10T09:30", "expressao": "há quatro horas", "resposta": "2028-07-10T05:30", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2024-06-10T12:25", "expressao": "há 5 horas", "resposta": "2024-06-10T07:25", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2027-03-18T17:45", "expressao": "cinco horas atrás", "resposta": "2027-03-18T12:45", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2025-01-14T19:45", "expressao": "3 horas atrás", "resposta": "2025-01-14T16:45", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2027-03-25T19:30", "expressao": "há cinco horas", "resposta": "2027-03-25T14:30", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2024-08-19T14:00", "expressao": "oito horas atrás", "resposta": "2024-08-19T06:00", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2024-10-06T14:25", "expressao": "há doze horas", "resposta": "2024-10-06T02:25", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2025-06-28T12:30", "expressao": "duas horas atrás", "resposta": "2025-06-28T10:30", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2024-04-17T15:50", "expressao": "há nove horas", "resposta": "2024-04-17T06:50", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2028-06-11T12:30", "expressao": "2 horas atrás", "resposta": "2028-06-11T10:30", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2028-12-19T16:15", "expressao": "doze horas atrás", "resposta": "2028-12-19T04:15", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2027-03-06T20:15", "expressao": "há onze horas", "resposta": "2027-03-06T09:15", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2024-08-01T07:00", "expressao": "há nove horas", "resposta": "2024-07-31T22:00", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2026-10-12T18:10", "expressao": "há três horas", "resposta": "2026-10-12T15:10", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2026-01-24T21:05", "expressao": "há 9 horas", "resposta": "2026-01-24T12:05", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2025-03-04T18:50", "expressao": "há cinco horas", "resposta": "2025-03-04T13:50", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2026-06-05T21:20", "expressao": "cinco horas atrás", "resposta": "2026-06-05T16:20", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2024-04-09T10:35", "expressao": "há quatro horas", "resposta": "2024-04-09T06:35", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2028-11-16T07:55", "expressao": "9 horas atrás", "resposta": "2028-11-15T22:55", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2028-11-27T11:15", "expressao": "há 8 horas", "resposta": "2028-11-27T03:15", "tipo": "inedita"}
+{"familia": "horas_atras", "referencia": "2027-03-28T20:30", "expressao": "há 11 horas", "resposta": "2027-03-28T09:30", "tipo": "inedita"}

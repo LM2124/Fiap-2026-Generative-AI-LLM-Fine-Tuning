@@ -1,0 +1,32 @@
+[project]
+name = "cp5-finetuning-datas"
+version = "0.1.0"
+description = "Fine-tuning (LoRA) do Qwen3-1.7B para converter datas/horários em linguagem natural para o formato ISO 8601."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "torch",
+    "transformers",
+    "peft",
+    "accelerate",
+    "datasets",
+    "matplotlib",
+    "pandas",
+    "fastapi",
+    "uvicorn",
+    "ipykernel",
+    "nbconvert",
+    "jupytext",
+]
+
+[tool.uv]
+package = false
+
+# PyTorch com CUDA 13.0 vem do índice oficial do PyTorch (o PyPI não garante build CUDA no Windows).
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu130" }]
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true

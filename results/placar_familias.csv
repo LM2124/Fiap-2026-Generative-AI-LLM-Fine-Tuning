@@ -1,0 +1,18 @@
+tipo,familia,Base (%),LoRA r=8 (%),LoRA r=16 (%)
+inedita,daqui_anos,0.0,56.0,64.0
+inedita,horas_atras,0.0,76.0,60.0
+inedita,meses_atras,4.0,64.0,68.0
+inedita,semanas_atras,8.0,28.0,28.0
+variacao,daqui_dias,10.0,70.0,85.0
+variacao,daqui_horas,0.0,85.0,80.0
+variacao,daqui_meses,5.0,80.0,80.0
+variacao,daqui_minutos,5.0,100.0,95.0
+variacao,daqui_semanas,5.0,55.0,60.0
+variacao,data_explicita,55.0,95.0,100.0
+variacao,dia_do_mes,40.0,85.0,85.0
+variacao,dia_relativo,40.0,100.0,100.0
+variacao,dia_semana_passado,10.0,90.0,90.0
+variacao,dias_atras,10.0,70.0,85.0
+variacao,inicio_fim_mes,20.0,100.0,100.0
+variacao,proximo_dia_semana,15.0,100.0,95.0
+variacao,semana_que_vem,0.0,80.0,80.0

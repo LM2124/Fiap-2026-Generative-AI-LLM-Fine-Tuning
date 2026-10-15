@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ISO 8601 Studio — Fine-Tuning LoRA Qwen3-1.7B</title>
+  <meta name="description" content="Conversão de expressões temporais em português para o padrão ISO 8601 com LoRA e Qwen3-1.7B.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-container">
+      <div class="brand">
+        <h1>ISO 8601 Studio</h1>
+        <span class="brand-divider">/</span>
+        <span class="subtitle">Fine-Tuning LoRA (Qwen3-1.7B)</span>
+      </div>
+      <div class="header-status">
+        <span class="status-indicator"></span>
+        <span id="gpuStatusText" class="status-text">Conectando...</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content (Centralizado Verticalmente) -->
+  <main class="main-container">
+    <div class="content-wrapper">
+
+      <!-- Workbench Card -->
+      <section class="panel">
+        <div class="panel-header">
+          <span class="panel-title">Conversor de Entidades Temporais</span>
+          <span class="panel-subtitle">Benchmark interativo: Modelo Base (Referência) vs. Modelo Especializado (LoRA)</span>
+        </div>
+
+        <div class="panel-body">
+          <!-- Guia de Uso no topo -->
+          <div class="guide-box">
+            <p class="guide-text">
+              O modelo calcula a data e hora exata em formato <strong>ISO 8601</strong> (<code>AAAA-MM-DD</code> ou <code>AAAA-MM-DDTHH:MM</code>) 
+              a partir do deslocamento indicado no texto informal em relação ao ponto de referência fornecido. 
+              O painel da esquerda exibe o <strong>Qwen Base</strong> (zero-shot) como referência constante, e o painel da direita avalia o adaptador <strong>LoRA</strong> selecionado.
+            </p>
+          </div>
+
+          <!-- Presets Rápidos no meio -->
+          <div class="presets-row">
+            <span class="presets-label">Exemplos:</span>
+            <div class="presets-list" id="presetsList">
+              <button type="button" class="preset-chip" data-ref="2024-03-20 18:00" data-expr="daqui a 3 semanas">daqui a 3 semanas</button>
+              <button type="button" class="preset-chip" data-ref="2025-11-04 15:30" data-expr="daqui a 45 minutos">daqui a 45 minutos</button>
+              <button type="button" class="preset-chip" data-ref="2026-10-09 14:30" data-expr="próxima terça às 3 da tarde">próxima terça às 3 da tarde</button>
+              <button type="button" class="preset-chip" data-ref="2025-05-12 10:00" data-expr="depois de amanhã">depois de amanhã</button>
+              <button type="button" class="preset-chip" data-ref="2026-01-31 09:00" data-expr="fim do mês que vem">fim do mês que vem</button>
+              <button type="button" class="preset-chip" data-ref="2024-02-28 11:00" data-expr="amanhã (ano bissexto)">amanhã (ano bissexto)</button>
+              <button type="button" class="preset-chip" data-ref="2026-10-09 14:30" data-expr="segunda-feira passada">segunda-feira passada</button>
+            </div>
+          </div>
+
+          <!-- Bloco Inferior: Entradas de Dados e Ação Juntas -->
+          <div class="action-zone">
+            <div class="input-grid">
+              <!-- Data de Referência -->
+              <div class="form-group">
+                <div class="label-row">
+                  <label for="inputRef">Data e hora de referência</label>
+                  <span class="weekday-hint" id="helperRefDia">(quarta-feira)</span>
+                </div>
+                <div class="input-with-action">
+                  <input 
+                    type="text" 
+                    id="inputRef" 
+                    class="form-input mono" 
+                    value="2024-03-20 18:00" 
+                    placeholder="AAAA-MM-DD HH:MM" 
+                    autocomplete="off"
+                    spellcheck="false"
+                  >
+                  <button type="button" id="btnAgora" class="btn-subtle" title="Usar data e hora atual do sistema">Agora</button>
+                </div>
+              </div>
+
+              <!-- Expressão Temporal -->
+              <div class="form-group">
+                <div class="label-row">
+                  <label for="inputExpr">Expressão em linguagem natural</label>
+                  <span class="kbd-hint">Enter para converter</span>
+                </div>
+                <input 
+                  type="text" 
+                  id="inputExpr" 
+                  class="form-input" 
+                  value="daqui a 3 semanas" 
+                  placeholder="Ex.: depois de amanhã, daqui a 3 semanas, fim do mês que vem..."
+                  autocomplete="off"
+                >
+              </div>
+            </div>
+
+            <!-- Controles Contíguos às Entradas -->
+            <div class="action-footer">
+              <div class="model-select-group">
+                <span class="ctrl-label">Adaptador LoRA:</span>
+                <div class="segmented-control" id="modelSelector">
+                  <button type="button" class="seg-btn active" data-model="r16">LoRA r=16 (Principal)</button>
+                  <button type="button" class="seg-btn" data-model="r8">LoRA r=8 (Compacto)</button>
+                </div>
+              </div>
+
+              <button type="button" id="btnConverter" class="btn-primary">
+                <span class="btn-text">Converter</span>
+                <span class="btn-spinner hidden"></span>
+              </button>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- Comparativo Lado a Lado -->
+      <section class="comparison-grid">
+        
+        <!-- Painel Esquerdo (Qwen Base - Referência Fixa) -->
+        <div class="panel result-panel panel-reference" id="panelBase">
+          <div class="result-header">
+            <div class="title-with-badge">
+              <span class="result-title">Qwen3-1.7B Base</span>
+              <span class="ref-badge">Referência</span>
+            </div>
+            <span class="result-meta" id="latencyBase">—</span>
+          </div>
+
+          <div class="output-box">
+            <div class="output-value mono output-empty" id="outputBase">—</div>
+            <button type="button" class="copy-btn" id="btnCopyBase" title="Copiar carimbo">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+              </svg>
+            </button>
+          </div>
+
+          <div class="status-row" id="statusBase">
+            <span class="status-bullet bullet-neutral"></span>
+            <span class="status-msg" id="statusTextBase">Aguardando conversão</span>
+          </div>
+
+          <p class="panel-caption" id="captionBase">Modelo base original sem fine-tuning (avaliação zero-shot de referência).</p>
+        </div>
+
+        <!-- Painel Direito (Modelo LoRA Especializado) -->
+        <div class="panel result-panel panel-lora" id="panelLora">
+          <div class="result-header">
+            <span class="result-title" id="titleLora">Modelo LoRA Especializado (r=16)</span>
+            <span class="result-meta" id="latencyLora">—</span>
+          </div>
+
+          <div class="output-box">
+            <div class="output-value mono output-empty" id="outputLora">—</div>
+            <button type="button" class="copy-btn" id="btnCopyLora" title="Copiar carimbo ISO 8601">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+              </svg>
+            </button>
+          </div>
+
+          <div class="status-row" id="statusLora">
+            <span class="status-bullet bullet-neutral"></span>
+            <span class="status-msg" id="statusTextLora">Aguardando conversão</span>
+          </div>
+
+          <p class="panel-caption" id="captionLora">Adaptador principal (17.4M parâmetros) com ajuste de atenção e MLP.</p>
+        </div>
+
+      </section>
+
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

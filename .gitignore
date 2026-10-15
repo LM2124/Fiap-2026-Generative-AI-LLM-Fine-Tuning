@@ -1,0 +1,17 @@
+# Ambientes Virtuais e uv
+.venv/
+__pycache__/
+*.pyc
+
+# Checkpoints intermediários temporários do treinamento
+checkpoints*/
+runs/
+
+# Caches do Hugging Face e Jupyter
+.cache/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
